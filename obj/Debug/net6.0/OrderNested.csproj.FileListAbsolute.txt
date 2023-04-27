@@ -1,0 +1,15 @@
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\bin\Debug\net6.0\OrderNested.exe
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\bin\Debug\net6.0\OrderNested.deps.json
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\bin\Debug\net6.0\OrderNested.runtimeconfig.json
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\bin\Debug\net6.0\OrderNested.dll
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\bin\Debug\net6.0\OrderNested.pdb
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\obj\Debug\net6.0\OrderNested.csproj.AssemblyReference.cache
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\obj\Debug\net6.0\OrderNested.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\obj\Debug\net6.0\OrderNested.AssemblyInfoInputs.cache
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\obj\Debug\net6.0\OrderNested.AssemblyInfo.cs
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\obj\Debug\net6.0\OrderNested.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\obj\Debug\net6.0\OrderNested.dll
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\obj\Debug\net6.0\refint\OrderNested.dll
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\obj\Debug\net6.0\OrderNested.pdb
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\obj\Debug\net6.0\OrderNested.genruntimeconfig.cache
+C:\Users\Developer\Documents\TestProject\CSharp\OrderNested\OrderNested\obj\Debug\net6.0\ref\OrderNested.dll
